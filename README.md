@@ -1,2 +1,2 @@
 # rpc_config
-config url for backend redirect
+config url for Android backend redirect
